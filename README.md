@@ -99,7 +99,7 @@ This script computes the corresponding AUC and ASR metrics.
 
 If you find our repository useful for your research, please consider citing our paper:
 
-'''
+```
 
 @inproceedings{pan2026explainable,
   title={Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection},
@@ -108,5 +108,5 @@ If you find our repository useful for your research, please consider citing our 
   year={2026}
 }
 
-'''
+```
 
